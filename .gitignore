@@ -6,7 +6,7 @@
 .alcache/
 #Symbols folder
 .alpackages/
-#Snapshots Nofolder
+#Crabik
 .snapshots/
 #Testing Output folder
 .output/
